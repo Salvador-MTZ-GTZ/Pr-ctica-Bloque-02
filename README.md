@@ -1,0 +1,2 @@
+# Pr-ctica-Bloque-02
+Se necesita tener en cuenta la siguiente funcionalidad, el programa deberá contener un menú dentro de una función llamada main() el cual se ejecutará mientras el usuario lo desee, las opciones que debe mostrar dicho menú son: 1.- Crear figura 2.- Listar una clasificación de figuras 3.- Listar todas las figuras 4.- Mostrar suma de todas las áreas 5.- Mostrar la suma de todos los perímetros 6.- Limpiar lista 0.- Salir NOTA: Todas las figuras las almacenarás en una lista llamada, figuras (Será una lista de diccionarios)
